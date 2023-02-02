@@ -1,0 +1,13 @@
+.none {
+  display: none;
+}
+.colors {
+  background-color: blue;
+  color: white;
+}
+.red {
+  background-color: red;
+  color: white;
+  font-size: 2rem;
+  text-transform: uppercase;
+}

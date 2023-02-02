@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  display: grid;
+  place-content: center;
+  place-items: center;
+  grid-gap: 50px;
+  height: 80vh;
+}
+main h2 {
+  font-size: 4rem;
+}
+.btn {
+  display: flex;
+  gap: 15px;
+}
+
+.btn button {
+  width: 10rem;
+  height: 2rem;
+  font-size: 1rem;
+}
+
+.alp {
+  background-color: red;
+}
